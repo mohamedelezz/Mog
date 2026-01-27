@@ -1,0 +1,40 @@
+{
+  "Radius": {
+    "Components": {
+      "card-radius": {
+        "$value": "{Primitives.Spacing.4 (16px)}",
+        "$type": "number"
+      }
+    },
+    "Radius": {
+      "radius-none": {
+        "$value": "{Primitives.Radius.radius-0}",
+        "$type": "borderRadius"
+      },
+      "radius-xs": {
+        "$value": "{Primitives.Radius.radius-2}",
+        "$type": "borderRadius"
+      },
+      "radius-sm": {
+        "$value": "{Primitives.Radius.radius-4}",
+        "$type": "borderRadius"
+      },
+      "radius-md": {
+        "$value": "{Primitives.Radius.radius-8}",
+        "$type": "borderRadius"
+      },
+      "radius-lg": {
+        "$value": "{Primitives.Radius.radius-16}",
+        "$type": "borderRadius"
+      },
+      "radius-xl": {
+        "$value": "{Primitives.Radius.radius-24}",
+        "$type": "borderRadius"
+      },
+      "radius-full": {
+        "$value": "{Primitives.Radius.radius-9999}",
+        "$type": "borderRadius"
+      }
+    }
+  }
+}

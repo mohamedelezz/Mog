@@ -1,0 +1,454 @@
+{
+  "Spacing": {
+    "Card": {
+      "card-lg-padding": {
+        "$value": "{Primitives.Spacing.8 (32px)}",
+        "$type": "spacing"
+      },
+      "card-lg-gap": {
+        "$value": "{Primitives.Spacing.6 (24px)}",
+        "$type": "spacing"
+      },
+      "card-md-gap": {
+        "$value": "{Primitives.Spacing.6 (24px)}",
+        "$type": "spacing"
+      },
+      "card-md-padding": {
+        "$value": "{Primitives.Spacing.8 (32px)}",
+        "$type": "spacing"
+      },
+      "card-sm-padding": {
+        "$value": "{Primitives.Spacing.8 (32px)}",
+        "$type": "spacing"
+      },
+      "card-sm-gap": {
+        "$value": "{Primitives.Spacing.6 (24px)}",
+        "$type": "spacing"
+      }
+    },
+    "Section": {
+      "section-padding": {
+        "$value": "{Primitives.Spacing.8 (32px)}",
+        "$type": "spacing"
+      },
+      "section-gap": {
+        "$value": "{Primitives.Spacing.8 (32px)}",
+        "$type": "spacing"
+      }
+    },
+    "Text": {
+      "text-content-gap": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      }
+    },
+    "Icon": {
+      "icon-text-gap": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      }
+    },
+    "Button": {
+      "buttons-group-gap": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      },
+      "button-menu-gap": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      },
+      "button-menu-v-padding": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      },
+      "button-menu-h-padding": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      },
+      "buttons-lg-gap": {
+        "$value": "{Primitives.Spacing.1 (4px)}",
+        "$type": "spacing"
+      },
+      "buttons-lg-padding": {
+        "$value": "{Primitives.Spacing.4 (16px)}",
+        "$type": "spacing"
+      },
+      "buttons-md-gap": {
+        "$value": "{Primitives.Spacing.1 (4px)}",
+        "$type": "spacing"
+      },
+      "buttons-md-padding": {
+        "$value": "{Primitives.Spacing.3 (12px)}",
+        "$type": "spacing"
+      },
+      "buttons-sm-gap": {
+        "$value": "{Primitives.Spacing.1 (4px)}",
+        "$type": "spacing"
+      },
+      "buttons-sm-padding": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      }
+    },
+    "Link": {
+      "links-group-gap": {
+        "$value": "{Primitives.Spacing.3 (12px)}",
+        "$type": "spacing"
+      },
+      "link-md-gap": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      },
+      "link-sm-gap": {
+        "$value": "{Primitives.Spacing.1 (4px)}",
+        "$type": "spacing"
+      }
+    },
+    "Control": {
+      "control-vertical-gap": {
+        "$value": "{Primitives.Spacing.1 (4px)}",
+        "$type": "spacing"
+      },
+      "control-title-error-gap": {
+        "$value": "{Primitives.Spacing.4 (16px)}",
+        "$type": "spacing"
+      },
+      "control-switch-description-padding": {
+        "$value": "{Primitives.Spacing.16 (64px)}",
+        "$type": "spacing"
+      },
+      "control-switch-error-icon-gap": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      },
+      "control-radio-description-padding": {
+        "$value": "{Primitives.Spacing.12 (48px)}",
+        "$type": "spacing"
+      },
+      "control-radio-error-icon-gap": {
+        "$value": "{Primitives.Spacing.4 (16px)}",
+        "$type": "spacing"
+      }
+    },
+    "Accordion": {
+      "accordion-lg-header-padding": {
+        "$value": "{Primitives.Spacing.4 (16px)}",
+        "$type": "spacing"
+      },
+      "accordion-lg-header-gap": {
+        "$value": "{Primitives.Spacing.4 (16px)}",
+        "$type": "spacing"
+      },
+      "accordion-md-header-padding": {
+        "$value": "{Primitives.Spacing.3 (12px)}",
+        "$type": "spacing"
+      },
+      "accordion-md-header-gap": {
+        "$value": "{Primitives.Spacing.12 (48px)}",
+        "$type": "spacing"
+      },
+      "accordion-sm-header-padding": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      },
+      "accordion-sm-header-gap": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      }
+    },
+    "Global": {
+      "spacing-none": {
+        "$value": "{Primitives.Spacing.0 (0px)}",
+        "$type": "spacing"
+      },
+      "spacing-xxs": {
+        "$value": "{Primitives.Spacing.0․5 (2px)}",
+        "$type": "spacing"
+      },
+      "spacing-xs": {
+        "$value": "{Primitives.Spacing.1 (4px)}",
+        "$type": "spacing"
+      },
+      "spacing-sm": {
+        "$value": "{Primitives.Spacing.1․5 (6px)}",
+        "$type": "spacing"
+      },
+      "spacing-md": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      },
+      "spacing-lg": {
+        "$value": "{Primitives.Spacing.3 (12px)}",
+        "$type": "spacing"
+      },
+      "spacing-xl": {
+        "$value": "{Primitives.Spacing.4 (16px)}",
+        "$type": "spacing"
+      },
+      "spacing-2xl": {
+        "$value": "{Primitives.Spacing.5 (20px)}",
+        "$type": "spacing"
+      },
+      "spacing-3xl": {
+        "$value": "{Primitives.Spacing.6 (24px)}",
+        "$type": "spacing"
+      },
+      "spacing-4xl": {
+        "$value": "{Primitives.Spacing.8 (32px)}",
+        "$type": "spacing"
+      },
+      "spacing-5xl": {
+        "$value": "{Primitives.Spacing.10 (40px)}",
+        "$type": "spacing"
+      },
+      "spacing-6xl": {
+        "$value": "{Primitives.Spacing.12 (48px)}",
+        "$type": "spacing"
+      },
+      "spacing-7xl": {
+        "$value": "{Primitives.Spacing.16 (64px)}",
+        "$type": "spacing"
+      },
+      "spacing-8xl": {
+        "$value": "{Primitives.Spacing.20 (80px)}",
+        "$type": "spacing"
+      },
+      "spacing-9xl": {
+        "$value": "{Primitives.Spacing.24 (96px)}",
+        "$type": "spacing"
+      },
+      "spacing-10xl": {
+        "$value": "{Primitives.Spacing.32 (128px)}",
+        "$type": "spacing"
+      },
+      "spacing-11xl": {
+        "$value": "{Primitives.Spacing.40 (160px)}",
+        "$type": "spacing"
+      }
+    },
+    "Tooltip": {
+      "tooltip-gap": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      },
+      "tooltip-padding": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      }
+    },
+    "Form": {
+      "input-padding": {
+        "$value": "{Primitives.Spacing.0 (0px)}",
+        "$type": "spacing"
+      },
+      "input-gap": {
+        "$value": "{Primitives.Spacing.0 (0px)}",
+        "$type": "spacing"
+      },
+      "textarea-padding": {
+        "$value": "{Primitives.Spacing.0 (0px)}",
+        "$type": "spacing"
+      },
+      "textarea-gap": {
+        "$value": "{Primitives.Spacing.0 (0px)}",
+        "$type": "spacing"
+      },
+      "label-gap": {
+        "$value": "{Primitives.Spacing.1 (4px)}",
+        "$type": "spacing"
+      },
+      "field-label-gap": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      },
+      "select-padding": {
+        "$value": "{Primitives.Spacing.0 (0px)}",
+        "$type": "spacing"
+      },
+      "select-gap": {
+        "$value": "{Primitives.Spacing.0 (0px)}",
+        "$type": "spacing"
+      },
+      "Iable-container": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "number"
+      },
+      "Input-container-padding-left": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "number"
+      },
+      "Input-container-padding-right": {
+        "$value": "{Primitives.Spacing.4 (16px)}",
+        "$type": "number"
+      },
+      "icon-enteredtext": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "number"
+      },
+      "icon-helpertext": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      },
+      "Prefix-Suffix-padding-left": {
+        "$value": "{Primitives.Spacing.4 (16px)}",
+        "$type": "spacing"
+      },
+      "Prefix-Suffix-padding-right": {
+        "$value": "{Primitives.Spacing.4 (16px)}",
+        "$type": "spacing"
+      },
+      "Prefix-Suffix-lable-icon": {
+        "$value": "{Primitives.Spacing.1 (4px)}",
+        "$type": "spacing"
+      },
+      "Prefix-Suffix-padding-Top&Bottom": {
+        "$value": "{Primitives.Spacing.0․5 (2px)}",
+        "$type": "spacing"
+      },
+      "dropdown-container-padding-left&right": {
+        "$value": "{Primitives.Spacing.4 (16px)}",
+        "$type": "spacing"
+      },
+      "dropdown-icon-content": {
+        "$value": "{Primitives.Spacing.1 (4px)}",
+        "$type": "number"
+      },
+      "textarea-container-padding-left&right": {
+        "$value": "{Primitives.Spacing.4 (16px)}",
+        "$type": "number"
+      },
+      "textarea-container-padding-top&bottom": {
+        "$value": "{Primitives.Spacing.3 (12px)}",
+        "$type": "number"
+      }
+    },
+    "Tab": {
+      "horizontal-tab-md-button-v-padding": {
+        "$value": "{Primitives.Spacing.3 (12px)}",
+        "$type": "spacing"
+      },
+      "horizontal-tab-md-button-h-padding": {
+        "$value": "{Primitives.Spacing.4 (16px)}",
+        "$type": "spacing"
+      },
+      "tab-button-gap": {
+        "$value": "{Primitives.Spacing.1 (4px)}",
+        "$type": "spacing"
+      },
+      "horizontal-tab-sm-button-v-padding": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      },
+      "horizontal-tab-sm-button-h-padding": {
+        "$value": "{Primitives.Spacing.3 (12px)}",
+        "$type": "spacing"
+      },
+      "vertical-tab-md-button-v-padding": {
+        "$value": "{Primitives.Spacing.1․5 (6px)}",
+        "$type": "spacing"
+      },
+      "vertical-tab-md-button-h-padding": {
+        "$value": "{Primitives.Spacing.3 (12px)}",
+        "$type": "spacing"
+      },
+      "vertical-tab-sm-button-v-padding": {
+        "$value": "{Primitives.Spacing.0․5 (2px)}",
+        "$type": "spacing"
+      },
+      "vertical-tab-sm-button-h-padding": {
+        "$value": "{Primitives.Spacing.1․5 (6px)}",
+        "$type": "spacing"
+      }
+    },
+    "Table": {
+      "table-cell-gap": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      },
+      "table-cell-v-padding": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      },
+      "table-cell-h-padding": {
+        "$value": "{Primitives.Spacing.4 (16px)}",
+        "$type": "spacing"
+      }
+    },
+    "Progress Indicator": {
+      "progress-indicator-gap": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      },
+      "progress-text-content-side-padding": {
+        "$value": "{Primitives.Spacing.4 (16px)}",
+        "$type": "spacing"
+      }
+    },
+    "Pagination": {
+      "pagination-Item-md-padding": {
+        "$value": "{Primitives.Spacing.1․5 (6px)}",
+        "$type": "spacing"
+      },
+      "pagination-Item-sm-padding": {
+        "$value": "{Primitives.Spacing.1 (4px)}",
+        "$type": "spacing"
+      },
+      "pagination-Item-lg-padding": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      },
+      "pagination-Items-padding": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      }
+    },
+    "Model": {
+      "modal-gap": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      },
+      "modal-padding": {
+        "$value": "{Primitives.Spacing.6 (24px)}",
+        "$type": "spacing"
+      },
+      "modal-content-bottom-padding": {
+        "$value": "{Primitives.Spacing.4 (16px)}",
+        "$type": "spacing"
+      }
+    },
+    "Notification": {
+      "notification-gap": {
+        "$value": "{Primitives.Spacing.4 (16px)}",
+        "$type": "spacing"
+      },
+      "notification-padding": {
+        "$value": "{Primitives.Spacing.4 (16px)}",
+        "$type": "spacing"
+      },
+      "notification-h-padding": {
+        "$value": "{Primitives.Spacing.6 (24px)}",
+        "$type": "spacing"
+      },
+      "notification-alert-v-padding": {
+        "$value": "{Primitives.Spacing.2 (8px)}",
+        "$type": "spacing"
+      },
+      "notification-alert-h-padding": {
+        "$value": "{Primitives.Spacing.6 (24px)}",
+        "$type": "spacing"
+      },
+      "notification-toast-v-padding": {
+        "$value": "{Primitives.Spacing.4 (16px)}",
+        "$type": "spacing"
+      },
+      "notification-toast-desktop-h-padding": {
+        "$value": "{Primitives.Spacing.6 (24px)}",
+        "$type": "spacing"
+      },
+      "notification-toast-mobile-h-padding": {
+        "$value": "{Primitives.Spacing.4 (16px)}",
+        "$type": "spacing"
+      }
+    }
+  }
+}

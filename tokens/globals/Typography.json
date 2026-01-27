@@ -1,0 +1,210 @@
+{
+  "Typography": {
+    "Font Family": {
+      "font-family-display": {
+        "$value": "{Primitives.Typography.Font Family.font-family-display}",
+        "$type": "fontFamily"
+      },
+      "font-family-text": {
+        "$value": "{Primitives.Typography.Font Family.font-family-text}",
+        "$type": "fontFamily"
+      }
+    },
+    "Size": {
+      "Display": {
+        "typo-size-display-2xl": {
+          "$value": "{Primitives.Typography.Size.text-size-72}",
+          "$type": "fontSize"
+        },
+        "typo-size-display-xl": {
+          "$value": "{Primitives.Typography.Size.text-size-60}",
+          "$type": "fontSize"
+        },
+        "typo-size-display-Ig": {
+          "$value": "{Primitives.Typography.Size.text-size-48}",
+          "$type": "fontSize"
+        },
+        "typo-size-display-md": {
+          "$value": "{Primitives.Typography.Size.text-size-36}",
+          "$type": "fontSize"
+        },
+        "typo-size-display-sm": {
+          "$value": "{Primitives.Typography.Size.text-size-30}",
+          "$type": "fontSize"
+        },
+        "typo-size-display-xs": {
+          "$value": "{Primitives.Typography.Size.text-size-24}",
+          "$type": "fontSize"
+        }
+      },
+      "Text": {
+        "typo-size-text-xl": {
+          "$value": "{Primitives.Typography.Size.text-size-20}",
+          "$type": "fontSize"
+        },
+        "typo-size-text-Ig": {
+          "$value": "{Primitives.Typography.Size.text-size-18}",
+          "$type": "fontSize"
+        },
+        "typo-size-text-md": {
+          "$value": "{Primitives.Typography.Size.text-size-16}",
+          "$type": "fontSize"
+        },
+        "typo-size-text-sm": {
+          "$value": "{Primitives.Typography.Size.text-size-14}",
+          "$type": "fontSize"
+        },
+        "typo-size-text-xs": {
+          "$value": "{Primitives.Typography.Size.text-size-12}",
+          "$type": "fontSize"
+        },
+        "typo-size-text-2xs": {
+          "$value": "{Primitives.Typography.Size.text-size-10}",
+          "$type": "fontSize"
+        }
+      }
+    },
+    "Line Height": {
+      "Display": {
+        "line-heights-display-2xl": {
+          "$value": "{Primitives.Typography.Line Hight.line-hight-90}",
+          "$type": "lineHeight"
+        },
+        "line-heights-display-xl": {
+          "$value": "{Primitives.Typography.Line Hight.line-hight-72}",
+          "$type": "lineHeight"
+        },
+        "line-heights-display-Ig": {
+          "$value": "{Primitives.Typography.Line Hight.line-hight-60}",
+          "$type": "lineHeight"
+        },
+        "line-heights-display-md": {
+          "$value": "{Primitives.Typography.Line Hight.line-hight-44}",
+          "$type": "lineHeight"
+        },
+        "line-heights-display-sm": {
+          "$value": "{Primitives.Typography.Line Hight.line-hight-38}",
+          "$type": "lineHeight"
+        },
+        "line-heights-display-xs": {
+          "$value": "{Primitives.Typography.Line Hight.line-hight-32}",
+          "$type": "lineHeight"
+        }
+      },
+      "Text": {
+        "line-heights-text-xl": {
+          "$value": "{Primitives.Typography.Line Hight.line-hight-30}",
+          "$type": "lineHeight"
+        },
+        "line-heights-text-Ig": {
+          "$value": "{Primitives.Typography.Line Hight.line-hight-28}",
+          "$type": "lineHeight"
+        },
+        "line-heights-text-md": {
+          "$value": "{Primitives.Typography.Line Hight.line-hight-24}",
+          "$type": "lineHeight"
+        },
+        "line-heights-text-sm": {
+          "$value": "{Primitives.Typography.Line Hight.line-hight-20}",
+          "$type": "lineHeight"
+        },
+        "line-heights-text-xs": {
+          "$value": "{Primitives.Typography.Line Hight.line-hight-18}",
+          "$type": "lineHeight"
+        },
+        "line-heights-text-2xs": {
+          "$value": "{Primitives.Typography.Line Hight.line-hight-14}",
+          "$type": "lineHeight"
+        }
+      }
+    },
+    "Paragraph Spacing": {
+      "Display": {
+        "paragraph-spacing-display-2xl": {
+          "$value": "{Primitives.Typography.Paragraph Spacing.paragraph-spacing-72}",
+          "$type": "paragraphSpacing"
+        },
+        "paragraph-spacing-display-xl": {
+          "$value": "{Primitives.Typography.Paragraph Spacing.paragraph-spacing-60}",
+          "$type": "paragraphSpacing"
+        },
+        "paragraph-spacing-display-Ig": {
+          "$value": "{Primitives.Typography.Paragraph Spacing.paragraph-spacing-48}",
+          "$type": "paragraphSpacing"
+        },
+        "paragraph-spacing-display-md": {
+          "$value": "{Primitives.Typography.Paragraph Spacing.paragraph-spacing-36}",
+          "$type": "paragraphSpacing"
+        },
+        "paragraph-spacing-display-sm": {
+          "$value": "{Primitives.Typography.Paragraph Spacing.paragraph-spacing-30}",
+          "$type": "paragraphSpacing"
+        },
+        "paragraph-spacing-display-xs": {
+          "$value": "{Primitives.Typography.Paragraph Spacing.paragraph-spacing-24}",
+          "$type": "paragraphSpacing"
+        }
+      },
+      "Text": {
+        "paragraph-spacing-text-xl": {
+          "$value": "{Primitives.Typography.Paragraph Spacing.paragraph-spacing-20}",
+          "$type": "paragraphSpacing"
+        },
+        "paragraph-spacing-text-Ig": {
+          "$value": "{Primitives.Typography.Paragraph Spacing.paragraph-spacing-18}",
+          "$type": "paragraphSpacing"
+        },
+        "paragraph-spacing-text-md": {
+          "$value": "{Primitives.Typography.Paragraph Spacing.paragraph-spacing-16}",
+          "$type": "paragraphSpacing"
+        },
+        "paragraph-spacing-text-sm": {
+          "$value": "{Primitives.Typography.Paragraph Spacing.paragraph-spacing-14}",
+          "$type": "paragraphSpacing"
+        },
+        "paragraph-spacing-text-xs": {
+          "$value": "{Primitives.Typography.Paragraph Spacing.paragraph-spacing-12}",
+          "$type": "paragraphSpacing"
+        },
+        "paragraph-spacing-text-2xs": {
+          "$value": "{Primitives.Typography.Paragraph Spacing.paragraph-spacing-12}",
+          "$type": "paragraphSpacing"
+        }
+      }
+    },
+    "Font Wieght": {
+      "font-weight-bold": {
+        "$value": "{Primitives.Typography.Font Weight.font-weight-bold}",
+        "$type": "string"
+      },
+      "font-weight-bold-italic": {
+        "$value": "{Primitives.Typography.Font Weight.font-weight-bold-italic}",
+        "$type": "string"
+      },
+      "font-weight-semibold": {
+        "$value": "{Primitives.Typography.Font Weight.font-weight-semibold}",
+        "$type": "string"
+      },
+      "font-weight-semibold-italic": {
+        "$value": "{Primitives.Typography.Font Weight.font-weight-semibold-italic}",
+        "$type": "string"
+      },
+      "font-weight-medium": {
+        "$value": "{Primitives.Typography.Font Weight.font-weight-medium}",
+        "$type": "string"
+      },
+      "font-weight-medium-italic": {
+        "$value": "{Primitives.Typography.Font Weight.font-weight-medium-italic}",
+        "$type": "string"
+      },
+      "font-weight-regular": {
+        "$value": "{Primitives.Typography.Font Weight.font-weight-regular}",
+        "$type": "string"
+      },
+      "font-weight-italic": {
+        "$value": "{Primitives.Typography.Font Weight.font-weight-italic}",
+        "$type": "string"
+      }
+    }
+  }
+}

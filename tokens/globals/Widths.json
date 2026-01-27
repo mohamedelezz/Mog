@@ -1,0 +1,56 @@
+{
+  "Widths": {
+    "Width": {
+      "width-xxs": {
+        "$value": "{Primitives.Spacing.80 (320px)}",
+        "$type": "size"
+      },
+      "width-sm": {
+        "$value": "{Primitives.Spacing.120 (480px)}",
+        "$type": "size"
+      },
+      "width-lg": {
+        "$value": "{Primitives.Spacing.160 (640px)}",
+        "$type": "size"
+      },
+      "width-xl": {
+        "$value": "{Primitives.Spacing.192 (768px)}",
+        "$type": "size"
+      },
+      "width-2xl": {
+        "$value": "{Primitives.Spacing.256 (1,024px)}",
+        "$type": "size"
+      },
+      "width-3xl": {
+        "$value": "{Primitives.Spacing.320 (1,280px)}",
+        "$type": "size"
+      },
+      "width-4xl": {
+        "$value": "{Primitives.Spacing.360 (1,440px)}",
+        "$type": "size"
+      },
+      "width-5xl": {
+        "$value": "{Primitives.Spacing.400 (1,600px)}",
+        "$type": "size"
+      },
+      "width-6xl": {
+        "$value": "{Primitives.Spacing.480 (1,920px)}",
+        "$type": "size"
+      },
+      "width-md": {
+        "$value": "{Primitives.Spacing.140 (560px)}",
+        "$type": "size"
+      },
+      "width-xs": {
+        "$value": "{Primitives.Spacing.96 (384px)}",
+        "$type": "size"
+      }
+    },
+    "Max Width": {
+      "paragraph-max-width": {
+        "$value": "{Primitives.Spacing.180 (720px)}",
+        "$type": "size"
+      }
+    }
+  }
+}

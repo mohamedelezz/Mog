@@ -1,0 +1,24 @@
+{
+  "Containers": {
+    "container-max-width-desktop": {
+      "$value": "{Primitives.Spacing.360 (1,440px)}",
+      "$type": "size"
+    },
+    "container-padding-desktop": {
+      "$value": "{Primitives.Spacing.8 (32px)}",
+      "$type": "spacing"
+    },
+    "container-padding-mobile": {
+      "$value": "{Primitives.Spacing.4 (16px)}",
+      "$type": "spacing"
+    },
+    "Screen Width-max-width-desktop": {
+      "$value": "{Primitives.Spacing.400 (1,600px)}",
+      "$type": "size"
+    },
+    "Screen hight-min-Hight-desktop": {
+      "$value": "{Primitives.Spacing.256 (1,024px)}",
+      "$type": "size"
+    }
+  }
+}

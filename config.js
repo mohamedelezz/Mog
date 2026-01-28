@@ -371,6 +371,19 @@ StyleDictionary.registerFormat({
   },
 });
 
+// Helper to check if a token needs px units
+const needsPxUnit = (tokenName) => {
+  // Add px to spacing, radius, text-size, line-height, paragraph-spacing
+  // But NOT to font-weight, font-family, or color values
+  return (
+    tokenName.includes('spacing') ||
+    tokenName.includes('radius') ||
+    tokenName.includes('text-size') ||
+    tokenName.includes('line-hight') ||
+    tokenName.includes('paragraph-spacing')
+  );
+};
+
 StyleDictionary.registerFormat({
   name: 'css/index-variables',
   format: function ({ dictionary }) {
@@ -396,8 +409,12 @@ StyleDictionary.registerFormat({
             value = `"${value}"`
           }
           // Convert Figma font-weight names to CSS numeric values
-          if (token.name.includes('font-weight') && fontWeightMap[value] !== undefined) {
+          else if (token.name.includes('font-weight') && fontWeightMap[value] !== undefined) {
             value = fontWeightMap[value]
+          }
+          // Add px units to numeric values that need them (spacing, radius, text-size, line-height)
+          else if (needsPxUnit(newName) && typeof value === 'number') {
+            value = `${value}px`
           }
         } else {
           const formattedRef = formatReferenceValue(token.original.$value);
